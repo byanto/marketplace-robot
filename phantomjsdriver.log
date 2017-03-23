@@ -1,0 +1,487 @@
+[INFO  - 2017-03-19T12:27:56.767Z] GhostDriver - Main - running on port 48597
+[INFO  - 2017-03-19T12:27:57.841Z] Session [7c07d170-0c9f-11e7-be25-798207a9fec1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-19T12:27:57.842Z] Session [7c07d170-0c9f-11e7-be25-798207a9fec1] - page.customHeaders:  - {}
+[INFO  - 2017-03-19T12:27:57.844Z] Session [7c07d170-0c9f-11e7-be25-798207a9fec1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-19T12:27:57.844Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7c07d170-0c9f-11e7-be25-798207a9fec1
+[INFO  - 2017-03-19T12:27:59.357Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-03-19T12:30:47.649Z] GhostDriver - Main - running on port 11431
+[INFO  - 2017-03-19T12:30:48.357Z] Session [e1aa57a0-0c9f-11e7-83dd-29aabbf62bab] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-19T12:30:48.357Z] Session [e1aa57a0-0c9f-11e7-83dd-29aabbf62bab] - page.customHeaders:  - {}
+[INFO  - 2017-03-19T12:30:48.357Z] Session [e1aa57a0-0c9f-11e7-83dd-29aabbf62bab] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-19T12:30:48.357Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e1aa57a0-0c9f-11e7-83dd-29aabbf62bab
+[INFO  - 2017-03-19T12:31:06.036Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-03-19T15:24:04.219Z] GhostDriver - Main - running on port 11537
+[INFO  - 2017-03-19T15:24:05.718Z] Session [16f992a0-0cb8-11e7-b912-f34798b43a47] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-19T15:24:05.719Z] Session [16f992a0-0cb8-11e7-b912-f34798b43a47] - page.customHeaders:  - {}
+[INFO  - 2017-03-19T15:24:05.720Z] Session [16f992a0-0cb8-11e7-b912-f34798b43a47] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-19T15:24:05.721Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 16f992a0-0cb8-11e7-b912-f34798b43a47
+[ERROR - 2017-03-19T15:24:23.521Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1489937063467
+[INFO  - 2017-03-19T15:29:04.204Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:30:09.259Z] GhostDriver - Main - running on port 37140
+[INFO  - 2017-03-19T15:30:10.291Z] Session [f046ff70-0cb8-11e7-b14e-11f8d3865631] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-19T15:30:10.291Z] Session [f046ff70-0cb8-11e7-b14e-11f8d3865631] - page.customHeaders:  - {}
+[INFO  - 2017-03-19T15:30:10.293Z] Session [f046ff70-0cb8-11e7-b14e-11f8d3865631] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-19T15:30:10.294Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f046ff70-0cb8-11e7-b14e-11f8d3865631
+[INFO  - 2017-03-19T15:34:04.190Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:35:09.250Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:39:04.179Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:39:12.306Z] GhostDriver - Main - running on port 39367
+[INFO  - 2017-03-19T15:39:13.149Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-19T15:39:13.149Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.customHeaders:  - {}
+[INFO  - 2017-03-19T15:39:13.150Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-19T15:39:13.150Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 33d818e0-0cba-11e7-aab0-399e3487e9ae
+[ERROR - 2017-03-19T15:39:29.352Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:39:29.353Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+[ERROR - 2017-03-19T15:39:29.369Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: TypeError: null is not an object (evaluating 'e.parentNode.insertBefore')
+[ERROR - 2017-03-19T15:39:29.370Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  insertAfter (https://ssp.adskom.com/ak-dco.js:1)
+  loadScript (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  every (:0)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  ready (https://ssp.adskom.com/ak-dco.js:1)
+  n (https://ssp.adskom.com/ak-dco.js:1)
+  onload (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+[ERROR - 2017-03-19T15:39:29.594Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:39:29.595Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+[ERROR - 2017-03-19T15:39:29.596Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:39:29.596Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:39:34.790Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:39:34.791Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+[ERROR - 2017-03-19T15:39:34.824Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:39:34.839Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+[ERROR - 2017-03-19T15:39:34.840Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:39:34.841Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:39:35.228Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: TypeError: null is not an object (evaluating 'e.parentNode.insertBefore')
+[ERROR - 2017-03-19T15:39:35.228Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  insertAfter (https://ssp.adskom.com/ak-dco.js:1)
+  loadScript (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  every (:0)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+[ERROR - 2017-03-19T15:39:35.229Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:39:35.229Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:39:42.451Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:39:42.451Z] Session [33d818e0-0cba-11e7-aab0-399e3487e9ae] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[INFO  - 2017-03-19T15:39:48.214Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-03-19T15:40:09.248Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:44:04.165Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:45:09.237Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:49:04.152Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:50:09.227Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:52:34.635Z] GhostDriver - Main - running on port 47839
+[INFO  - 2017-03-19T15:52:36.095Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-03-19T15:52:36.096Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.customHeaders:  - {}
+[INFO  - 2017-03-19T15:52:36.096Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-03-19T15:52:36.096Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 126f52c0-0cbc-11e7-8061-cd061b2a8d15
+[ERROR - 2017-03-19T15:52:55.192Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:52:55.193Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+[ERROR - 2017-03-19T15:52:55.205Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: null is not an object (evaluating 'e.parentNode.insertBefore')
+[ERROR - 2017-03-19T15:52:55.206Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  insertAfter (https://ssp.adskom.com/ak-dco.js:1)
+  loadScript (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  every (:0)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  ready (https://ssp.adskom.com/ak-dco.js:1)
+  n (https://ssp.adskom.com/ak-dco.js:1)
+  onload (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+[ERROR - 2017-03-19T15:52:55.508Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:52:55.509Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+[ERROR - 2017-03-19T15:52:55.509Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:52:55.509Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:52:59.847Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:52:59.848Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+[ERROR - 2017-03-19T15:52:59.875Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:52:59.875Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+[ERROR - 2017-03-19T15:52:59.876Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:52:59.876Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:53:00.303Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: null is not an object (evaluating 'e.parentNode.insertBefore')
+[ERROR - 2017-03-19T15:53:00.304Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  insertAfter (https://ssp.adskom.com/ak-dco.js:1)
+  loadScript (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  every (:0)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+[ERROR - 2017-03-19T15:53:08.830Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:53:08.830Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  e (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js?hash=20170319:1)
+[ERROR - 2017-03-19T15:53:08.869Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:53:08.869Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+  e (https://ssp.adskom.com/ak-kw.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-kw.js:1)
+[ERROR - 2017-03-19T15:53:08.870Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:53:08.871Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:53:09.681Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+[ERROR - 2017-03-19T15:53:09.681Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:11)
+  insertBefore (:0)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:89)
+  Qh (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:91)
+  uf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:43)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:136)
+  yk (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:132)
+  Ik (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:145)
+  Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:147)
+  hg (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:53)
+  push (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+[ERROR - 2017-03-19T15:53:09.686Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2017-03-19T15:53:09.687Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:1)
+  insertBefore (:0)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:89)
+  Qh (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:91)
+  uf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:43)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:136)
+  yk (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:132)
+  Ik (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:145)
+  Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:147)
+  hg (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:53)
+  push (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+[ERROR - 2017-03-19T15:53:09.689Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2017-03-19T15:53:09.690Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:1)
+  insertBefore (:0)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:89)
+  Qh (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:91)
+  uf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:43)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:136)
+  yk (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:132)
+  Ik (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:145)
+  Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:147)
+  hg (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:53)
+  push (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+[ERROR - 2017-03-19T15:53:09.695Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2017-03-19T15:53:09.696Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:1)
+  insertBefore (:0)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:89)
+  Qh (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:91)
+  uf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:43)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:136)
+  yk (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:132)
+  Ik (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:145)
+  Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:147)
+  hg (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:53)
+  push (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+[ERROR - 2017-03-19T15:53:09.770Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2017-03-19T15:53:09.771Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:1)
+  insertBefore (:0)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:89)
+  Qh (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:91)
+  uf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:43)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:136)
+  yk (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:132)
+  Ik (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:145)
+  Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:147)
+  hg (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:53)
+  push (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+  Gf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:46)
+[ERROR - 2017-03-19T15:53:09.774Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: ReferenceError: Can't find variable: $
+[ERROR - 2017-03-19T15:53:09.775Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:1)
+  insertBefore (:0)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:89)
+  Qh (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:91)
+  uf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:43)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:136)
+  yk (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:132)
+  Ik (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:145)
+  Zf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:147)
+  hg (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:53)
+  push (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+  (anonymous function) (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:55)
+  Gf (https://www.googletagmanager.com/gtm.js?id=GTM-TN8CNF:46)
+[ERROR - 2017-03-19T15:53:09.983Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: null is not an object (evaluating 'e.parentNode.insertBefore')
+[ERROR - 2017-03-19T15:53:09.984Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  insertAfter (https://ssp.adskom.com/ak-dco.js:1)
+  loadScript (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+  every (:0)
+  (anonymous function) (https://ssp.adskom.com/ak-dco.js:1)
+[ERROR - 2017-03-19T15:53:10.052Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign(a.win.__ADSKOM,s)')
+[ERROR - 2017-03-19T15:53:10.053Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://ssp.adskom.com/ak-ec.js:1)
+  e (https://ssp.adskom.com/ak-ec.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-ec.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-ec.js:1)
+  e (https://ssp.adskom.com/ak-ec.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-ec.js:1)
+  e (https://ssp.adskom.com/ak-ec.js:1)
+  (anonymous function) (https://ssp.adskom.com/ak-ec.js:1)
+[ERROR - 2017-03-19T15:53:10.755Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'cat_ids.includes(product_adskom.category_id)')
+[ERROR - 2017-03-19T15:53:10.755Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  global code (https://www.tokopedia.com/aigootan/penutup-makanan-penutup-piring-food-cover:8)
+  replaceChild (:0)
+  _insertCursor (https://s7.adskom.com/postscribe.min.js:10)
+  _writeScriptToken (https://s7.adskom.com/postscribe.min.js:10)
+  _handleScriptToken (https://s7.adskom.com/postscribe.min.js:10)
+  _writeImpl (https://s7.adskom.com/postscribe.min.js:10)
+  write (https://s7.adskom.com/postscribe.min.js:10)
+  _onScriptDone (https://s7.adskom.com/postscribe.min.js:10)
+  (anonymous function) (https://s7.adskom.com/postscribe.min.js:10)
+  (anonymous function) (https://s7.adskom.com/postscribe.min.js:10)
+  r (https://s7.adskom.com/postscribe.min.js:10)
+  onload (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:53:10.756Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: [object Object]
+[ERROR - 2017-03-19T15:53:10.757Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  error (https://s7.adskom.com/postscribe.min.js:10)
+  onerror (https://s7.adskom.com/postscribe.min.js:10)
+  replaceChild (:0)
+  _insertCursor (https://s7.adskom.com/postscribe.min.js:10)
+  _writeScriptToken (https://s7.adskom.com/postscribe.min.js:10)
+  _handleScriptToken (https://s7.adskom.com/postscribe.min.js:10)
+  _writeImpl (https://s7.adskom.com/postscribe.min.js:10)
+  write (https://s7.adskom.com/postscribe.min.js:10)
+  _onScriptDone (https://s7.adskom.com/postscribe.min.js:10)
+  (anonymous function) (https://s7.adskom.com/postscribe.min.js:10)
+  (anonymous function) (https://s7.adskom.com/postscribe.min.js:10)
+  r (https://s7.adskom.com/postscribe.min.js:10)
+  onload (https://s7.adskom.com/postscribe.min.js:10)
+[ERROR - 2017-03-19T15:53:10.881Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'urlComponents[4].startsWith("m.")')
+[ERROR - 2017-03-19T15:53:10.882Z] Session [126f52c0-0cbc-11e7-8061-cd061b2a8d15] - page.onError - stack:
+  (anonymous function) (https://6bf746ad5bc91a240a3d-1d8fbdf7ecdc2b67730d7c561f0d1dfd.ssl.cf2.rackcdn.com/webyclip-tokopedia.min.js:12)
+  (anonymous function) (https://6bf746ad5bc91a240a3d-1d8fbdf7ecdc2b67730d7c561f0d1dfd.ssl.cf2.rackcdn.com/webyclip-tokopedia.min.js:12)
+[INFO  - 2017-03-19T15:53:18.194Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2017-03-19T15:54:04.138Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:55:09.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T15:59:04.125Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:00:09.204Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:04:04.114Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:05:09.191Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:09:04.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:10:09.178Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:14:04.090Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:15:09.165Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:19:04.077Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:20:09.152Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:24:04.065Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:25:09.139Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:29:04.055Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:30:09.127Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:34:04.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:35:09.115Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:39:04.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:40:09.111Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:44:04.022Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:45:09.109Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:49:04.009Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:50:09.100Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T16:54:41.405Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:05:26.837Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:09:59.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:10:26.822Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:14:59.123Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:15:26.810Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:19:59.118Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:20:26.806Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:24:59.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:25:26.797Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:29:59.094Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:30:26.784Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:34:59.238Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:35:26.932Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:39:59.231Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:40:26.918Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:44:59.224Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:45:26.904Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:49:59.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:50:26.891Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:56:26.984Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-19T17:56:26.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:24:51.837Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:24:51.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:29:51.825Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:29:51.825Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:34:51.813Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:34:51.819Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:39:51.805Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:39:51.812Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:44:51.790Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:44:51.798Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:49:51.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:49:51.784Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:54:51.770Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:54:51.770Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:59:50.227Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T03:59:50.227Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:04:50.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:04:50.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:09:50.198Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:09:50.203Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:14:50.183Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:14:50.189Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:19:50.170Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:19:50.174Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:24:50.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:24:50.159Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:29:50.145Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:29:50.145Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:34:50.148Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:34:50.173Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:39:50.145Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:39:50.159Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:44:50.136Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:44:50.145Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:49:50.126Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:49:50.131Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:54:50.115Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:54:50.117Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:59:50.100Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T04:59:50.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:04:50.087Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:04:50.089Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:09:50.073Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:09:50.075Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:14:50.062Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:14:50.063Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:19:50.048Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:19:50.049Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:24:50.039Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:24:50.039Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:29:50.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:29:50.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:34:50.015Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:34:50.022Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:39:50.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:39:50.015Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:44:49.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:44:50.003Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:49:49.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:49:49.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:54:49.976Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:54:49.978Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:59:49.963Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T05:59:49.969Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:04:49.954Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:04:49.955Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:09:49.942Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:09:49.945Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:14:49.931Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:14:49.932Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:19:49.919Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:19:49.993Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:24:49.918Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:24:49.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:29:49.906Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:29:49.971Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:34:49.897Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:34:49.964Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:39:49.888Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:39:49.960Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:44:49.877Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:44:49.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:49:49.866Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:49:50.007Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:54:49.853Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:54:49.962Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:59:49.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T06:59:49.957Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:04:49.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:04:49.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:09:49.816Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:09:49.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:14:49.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:14:49.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:19:49.793Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-03-20T07:19:49.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
